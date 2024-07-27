@@ -18,12 +18,14 @@ public class HomeController : Controller
     {
         _imporCsv = imporCsv;
     }
-    string caminhoPasta = @"D:\OneDrive\Programação\csv_net\teste1.csv";
-   [HttpGet()]
-   public ActionResult<TesteDTO> lerCsv()
-   {
-        var importar =_imporCsv.lerCsv(caminhoPasta);
-        
-        return Ok(importar);
-   }
+    //string caminhoPasta = @"D:\OneDrive\Programação\csv_net\teste1.csv";
+    [HttpGet("{caminhoPasta}")]
+    public ActionResult<TesteDTO> lerCsv(string caminhoPasta)
+    {
+        var importar = _imporCsv.lerCsv(caminhoPasta);
+
+             return Ok(importar);
+        }
+
+    //Verificar condição correta para os tipos dos campos  
 }

@@ -32,3 +32,4 @@ d:\OneDrive\Programação\csv_net\obj\Debug\net6.0\refint\csv_net.dll
 d:\OneDrive\Programação\csv_net\obj\Debug\net6.0\csv_net.pdb
 d:\OneDrive\Programação\csv_net\obj\Debug\net6.0\csv_net.genruntimeconfig.cache
 d:\OneDrive\Programação\csv_net\obj\Debug\net6.0\ref\csv_net.dll
+d:\OneDrive\Programação\csv_net\obj\Debug\net6.0\csv_net.sourcelink.json
