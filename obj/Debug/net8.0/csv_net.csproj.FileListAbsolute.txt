@@ -1,0 +1,8 @@
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.csproj.AssemblyReference.cache
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.AssemblyInfoInputs.cache
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.AssemblyInfo.cs
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.csproj.CoreCompileInputs.cache
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.RazorAssemblyInfo.cache
+D:\OneDrive\Programação\csv_net\obj\Debug\net8.0\csv_net.RazorAssemblyInfo.cs
