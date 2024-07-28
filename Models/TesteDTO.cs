@@ -8,11 +8,10 @@ namespace csv_net.Models
 
     public class TesteDTO
     {
-    
         [Index(0)]
-        public int Id { get; set;}
+        public string Id { get; set;}
         //Index ordena pela ordem das linhas, independente do nome da coluna excel
-        [Index(1)]
+            
         //[Name("FirstName")]
         public string FirstName { get; set; }
 
